@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36361427697",
+    "firebase_url": "https://fir-instagram-1c87b.firebaseio.com",
+    "project_id": "fir-instagram-1c87b",
+    "storage_bucket": "fir-instagram-1c87b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36361427697:android:e8c83d6e5151aa31",
+        "android_client_info": {
+          "package_name": "com.fatihsevban.instakotlinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36361427697-96ksk06umn3rdum7moud225t9e0ck5rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fatihsevban.instakotlinapp",
+            "certificate_hash": "f2faef6c895a805bd1081e7b52860cf98a23097c"
+          }
+        },
+        {
+          "client_id": "36361427697-fumn93g64n2hlqkvsoojg9prjfi1fo71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk-jPIvxK0Nbco6QHJRLtRzpjF2p_Gr9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36361427697-fumn93g64n2hlqkvsoojg9prjfi1fo71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
