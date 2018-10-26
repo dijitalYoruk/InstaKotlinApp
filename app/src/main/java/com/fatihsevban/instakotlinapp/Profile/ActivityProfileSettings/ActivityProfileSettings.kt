@@ -106,7 +106,7 @@ class ActivityProfileSettings : AppCompatActivity(), FragmentManager.OnBackStack
                         .reference
                         .child("Users")
                         .child(currentUId)
-                        .child("is_hidden")
+                        .child("_hidden")
                         .setValue(true)
 
                 // revealing account.
@@ -116,7 +116,7 @@ class ActivityProfileSettings : AppCompatActivity(), FragmentManager.OnBackStack
                         .reference
                         .child("Users")
                         .child(currentUId)
-                        .child("is_hidden")
+                        .child("_hidden")
                         .setValue(false)
 
             }
